@@ -1,0 +1,1 @@
+This is a readme file for the ICP-2 , where i've implemented all the tasks given in VS code, the task was to implement a webpage and use different kinds of tags to create paragraphs, lists, headings, Inline elements, Images , videos etc. 
