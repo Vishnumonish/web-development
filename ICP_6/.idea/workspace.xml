@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fb6f6865-b7c0-480f-bd79-3e757162b893" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Source/src/app/home/Img.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/dist/MashUp/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/Source/dist/MashUp/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/dist/MashUp/main.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/Source/dist/MashUp/main.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/src/app/app.component.css" beforeDir="false" afterPath="$PROJECT_DIR$/Source/src/app/app.component.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/src/app/contact/contact.component.css" beforeDir="false" afterPath="$PROJECT_DIR$/Source/src/app/contact/contact.component.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/src/app/home/home.component.css" beforeDir="false" afterPath="$PROJECT_DIR$/Source/src/app/home/home.component.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/src/app/home/home.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/Source/src/app/home/home.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/src/app/search-recipe/search-recipe.component.css" beforeDir="false" afterPath="$PROJECT_DIR$/Source/src/app/search-recipe/search-recipe.component.css" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="1z0MxQQBmy4nWQvYc0UXCyKX5Zx" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="ts.external.directory.path" value="C:\Users\thota\WebstormProjects\ICP6-mounikathotakura\Source\node_modules\typescript\lib" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\thota\WebstormProjects\ICP6-mounikathotakura\Source\src\app\home" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fb6f6865-b7c0-480f-bd79-3e757162b893" name="Changes" comment="" />
+      <created>1633280800835</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1633280800835</updated>
+      <workItem from="1633280803461" duration="4584000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
